@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conexus</string>
+    <string name="action_perfil">Perfil</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
